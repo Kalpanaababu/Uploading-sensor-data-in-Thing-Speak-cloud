@@ -190,6 +190,8 @@ void loop()
 }
 
 # CIRCUIT DIAGRAM:
+![image](https://github.com/user-attachments/assets/dcc2774b-aa3c-4cf8-bf15-45529f85c1f9)
+
 
 # OUTPUT:
 ![DHT11-sensor_cloudOP 1](https://github.com/user-attachments/assets/30d41b30-6156-415f-be26-936f10f02a7a)
